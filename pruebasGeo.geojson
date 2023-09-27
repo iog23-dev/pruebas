@@ -1,0 +1,92 @@
+{
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-17.960798522264253,
+							27.69249223963487
+						],
+						....
+					]
+				]
+			},
+			"type": "Feature",
+			"properties": {
+				"CMUN": "38013",
+				"cmun_5": null,
+				"municipio_": "Valverde",
+				"COD_ENTIDA": 108.0,
+				"geocodigo_": "50",
+				"perimete_2": 0.0,
+				"perimete_3": 0.0,
+				"perimete_1": 1742179.01627,
+				"polygon_Style_fill": "1",
+				"polygon_LineStyle_width": "1",
+				"geocodig_3": "CALETA",
+				"cmun_3": "167",
+				"ENTIDAD": "PINAR (EL)",
+				"polygon_Style_outline": "1",
+				"AREA": 276077.00135,
+				"description": "<a href=\"http://www.gobiernodecanarias.org/educacion/web/centros/centros_educativos/buscador-centros/resultados/detalle?codigo=38011303\">IES GAROÉ</a><br>",
+				"GEOCODIGO": "744",
+				"styleUrl": "#polygon_style",
+				"COD_NUCLEO": 2.0,
+				"perimete_4": 0.0,
+				"cod_nucl_5": null,
+				"cod_nucl_4": 3463091.74822,
+				"cod_enti_2": 6752.46159,
+				"cmun_4": "22",
+				"municipi_4": null,
+				"cmun_2": "38048",
+				"cod_nucl_1": 1.0,
+				"cod_nucl_2": 70.0,
+				"cod_nucl_3": 12950901.0148,
+				"nucleo_5": null,
+				"municipi_3": "11290.91238",
+				"isla_4": 0.0,
+				"isla_5": 0.0,
+				"isla_2": 70.0,
+				"isla_3": 0.0,
+				"perimeter_": 3881.58228,
+				"municipi_2": "27275.17553",
+				"area_4": 1.0,
+				"area_5": 99.0,
+				"entidad_4": "54",
+				"polygon_Style_color": "88FB7474",
+				"municipi_1": "120",
+				"area_2": 790961.90009,
+				"area_3": 1.0,
+				"name": "Zona de influencia",
+				"PERIMETER": 3432.18151,
+				"cod_enti_3": 38048.0,
+				"entidad_5": "311",
+				"cod_enti_1": 252.0,
+				"entidad_3": "738",
+				"entidad_2": "ERESE",
+				"cod_enti_4": 38048.0,
+				"cod_enti_5": 38048.0,
+				"nucleo_3": "70",
+				"nucleo_2": "ERESE",
+				"geocodig_1": "MOCANAL",
+				"geocodig_2": "SAN ANDRES",
+				"nucleo_4": "70",
+				"geocodig_4": null,
+				"ISLA": 70.0,
+				"NUCLEO": "RESTINGA (LA)",
+				"MUNICIPIO": "Frontera",
+				"polygon_LineStyle_color": "ff000000"
+			}
+		}
+	],
+	"name": "38011303"
+}
